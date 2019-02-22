@@ -64,7 +64,7 @@ def run(short_id,unique_id, header_loc, search_result_loc = [0,0]):
         header_loc = locate('.\\res\\locate_icon.png')
     tap(wm_size[0]/2,header_loc[1])
 
-    if(0 == short_id):
+    if('0' == short_id):
         short_id = unique_id
     print('输入抖音号:' + str(short_id))
     device.type(short_id)
