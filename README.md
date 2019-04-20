@@ -18,7 +18,7 @@ DouyinCrawler
 
 预处理步骤
 -------
-安卓截屏工具截取所需要的关键信息（建议使用系统截屏工具），例如：![图片](./res/following.png)
+安卓截屏工具截取所需要的关键信息（建议使用系统截屏工具），例如：![图片](https://raw.githubusercontent.com/li-phone/DouyinCrawler/master/src/res/following.png)
 
 操作步骤
 -------
@@ -59,7 +59,7 @@ uid,short_id,unique_id,nickname
 ,591932173,,
 ...
 ```
-[爬虫结果](./douyin_data/douyin-user_id=60002954951-total=130-nick_name='pumpkin'.csv )：
+[爬虫结果](https://github.com/li-phone/DouyinCrawler/blob/master/src/douyin_data/douyin-user_id%3D60002954951-total%3D130-nick_name%3D'pumpkin'.csv)：
 ```
 uid,short_id,unique_id,nickname
 60678995364,580442956,,神奇的眺眺
